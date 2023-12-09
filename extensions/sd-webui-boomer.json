@@ -1,0 +1,8 @@
+{
+    "name": "SD Webui Boomer",
+    "url": "https://github.com/Haoming02/sd-webui-boomer.git",
+    "description": "Revert some UI changes of webui 1.6 to look of 1.5 version",
+    "tags": [
+        "UI related"
+    ]
+}
