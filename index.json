@@ -2669,6 +2669,15 @@
                 "query"
             ],
             "added": "2023-12-16"
-        }
+        },
+         {
+            "name": "RD Facefusion",
+            "url": "https://github.com/runnitai/sd_facefusion.git",
+            "description": "Facefusion etension for Automatic1111.",
+            "added": "2023-12-24",
+            "tags": [
+                "tab"
+            ]
+        },
     ]
 }
